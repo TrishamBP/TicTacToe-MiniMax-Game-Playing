@@ -16,3 +16,9 @@ Adversarial search, or game-tree search, is a technique for analyzing an adversa
 3. Use the utility of nodes at level n to derive the utility of nodes at level n-1.
 4. Continue backing up values towards the root (one layer at a time).
 5. Eventually the backed up values reach the top of the tree, at which point Max chooses the move that yields the highest value. This is called the minimax decision because it maximises the utility for Max on the assumption that Min will play perfectly to minimise it.
+
+![image](https://github.com/TrishamBP/TicTacToe-MiniMax-Game-Playing/assets/91331117/7fb89311-674c-4588-9d0b-4919a6cecfd8)
+
+![image](https://github.com/TrishamBP/TicTacToe-MiniMax-Game-Playing/assets/91331117/90dfc760-93e6-418a-b1bd-57d72f43b999)
+
+
